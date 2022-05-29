@@ -1,2 +1,2 @@
-# Miracle
-The Greatest Minds
+# General Assignments
+BS-CS
